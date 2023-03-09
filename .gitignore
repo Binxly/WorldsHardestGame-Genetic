@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
 __pycache__/
-**/*.log
->>>>>>> Stashed changes
+__pycache__/config.cpython-310.pyc
+__pycache__/config.cpython-310.pyc
+driver.log
